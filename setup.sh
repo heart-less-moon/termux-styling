@@ -319,6 +319,8 @@ cd termuxstyling
 echo Script made by
 toilet HEART 
 toilet LESS
+sleep 2
+mdv README.md
 cd $pdir
 echo Subscribe to our YT channel FemurTech
 echo tinyurl.com/femurtech
